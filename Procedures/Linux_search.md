@@ -11,12 +11,15 @@
 
 ------------------
 
-| Tables        | Are           | Memory                 | Key-Rings                  |
-| ------------- |:-------------:| ----------------------:| --------------------------:|
-| col 3 is      | right-aligned |   Cache                | Browser stored credentials |
-| col 2 is      | centered      |   In-memory Processing |                            |
-| zebra stripes | are neat      |                        |                            |
-
+| Tables        | Are                       | Memory                 | Key-Rings                  |
+| ------------- |:-------------------------:| ----------------------:| --------------------------:|
+| Configs       | Logs                      |   Cache                | Browser stored credentials |
+| Databases     | Command-line History      |   In-memory Processing |                            |
+| Notes         |                           |                        |                            |
+| Scripts       |                           |                        |                            |
+| Source Codes  |                           |                        |                            |
+| Cronjobs      |                           |                        |                            |
+| SSH Keys      |                           |                        |                            |
 ---
 
 | Syntax | Description |
