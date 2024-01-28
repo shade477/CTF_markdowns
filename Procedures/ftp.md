@@ -1,0 +1,13 @@
+# FTP
+
+Ref:
+    [Section](https://academy.hackthebox.com/module/116/section/1165)
+    [Latest Vulnerabilities](https://academy.hackthebox.com/module/116/section/1166)
+
+|**Command**|**Description**|
+|-|-|
+| `ftp <FQDN/IP>` | Interact with the FTP service on the target. |
+| `nc -nv <FQDN/IP> 21` | Interact with the FTP service on the target. |
+| `telnet <FQDN/IP> 21` | Interact with the FTP service on the target. |
+| `openssl s_client -connect <FQDN/IP>:21 -starttls ftp` | Interact with the FTP service on the target using encrypted connection. |
+| `wget -m --no-passive ftp://anonymous:anonymous@<target>` | Download all available files on the target FTP server. |
