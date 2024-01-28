@@ -1,6 +1,6 @@
 - [Linux_search](Linux_search.md)
 - [Protected_Files](Protected_files.md)
 - [Remote_Desktop](Remote_Desktop.md)
-- [File_Transfer](file_Transfer.md)
+- [File_Transfer](file_transfer.md)
 - [Mail_Servers](mail_Servers.md)
 - [Tunnelling](tunnelling_portforwarding.md)
