@@ -1,15 +1,21 @@
 ## Stuff to look for
 | Files         | History              | Memory               | Key-Rings                  |
-|---------------|----------------------|----------------------|----------------------------|
+|---------------|:--------------------:|:--------------------:|:--------------------------:|
 | Configs       | Logs                 | Cache                | Browser stored credentials |
-| Databases     | Command-line History | In-memory Processing |
-| Notes         |
-| Scripts       |
-| Source codes  |
-| Cronjobs      |
-| SSH Keys      |
+| Databases     | Command-line History | In-memory Processing |                            |
+| Notes         |                      |                      |                            |
+| Scripts       |                      |                      |                            |                     
+| Source codes  |                      |                      |                            |
+| Cronjobs      |                      |                      |                            |
+| SSH Keys      |                      |                      |                            |
 
 ---
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 
 ## Search one liners
 
