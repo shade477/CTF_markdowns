@@ -29,6 +29,7 @@
 > LaZagne also works
 
 ## Useful password locations
+
 | **path** | **Contents** |
 |----------|--------------|
 | `/usr/lib/x86_x64-linux-gnu/security/` | May contain `pam_unix.so`, `pam_unix2.so` |
