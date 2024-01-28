@@ -4,7 +4,7 @@
 
 1. Check If Linux Machine is Domain Joined
     - Realm utility command `realm list`
-    - ps utility command `ps -ef | grep -i "winbind\|sssd"`
+    - ps utility command `ps -ef | grep -i "winbind|sssd"`
 2. Using Find to Search for Files with Keytab in the Name `find / -name *keytab* -ls 2>/dev/null`
 3. Identifying Keytab Files in Cronjobs `crontab -l` it may also show the utility used to interact with kerberos
 4. Location of ccache files
