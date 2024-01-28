@@ -1,3 +1,3 @@
 # CTF_markdowns
 
-[Procedures](Procedures.md)
+[Procedures](Procedures/Procedures.md)
