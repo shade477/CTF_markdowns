@@ -13,10 +13,6 @@
 
 
 
-| Syntax | Description |
-|:-----------:|:-----------:|
-| Header | Title |
-| Paragraph | Text |
 
 
 ## Search one liners
