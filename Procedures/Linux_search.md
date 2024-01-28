@@ -9,6 +9,14 @@
 | Cronjobs      |                      |                      |                            |
 | SSH Keys      |                      |                      |                            |
 
+------------------
+
+| Tables        | Are           | Memory                 | Key-Rings                  |
+| ------------- |:-------------:| ----------------------:| --------------------------:|
+| col 3 is      | right-aligned |   Cache                | Browser stored credentials |
+| col 2 is      | centered      |   In-memory Processing |                            |
+| zebra stripes | are neat      |                        |                            |
+
 ---
 
 | Syntax | Description |
