@@ -10,3 +10,6 @@
 - [password-attack_lab-medium](password-attack_lab-medium.md)
 - [password_labs-easy](password_labs.md)
 - [powershell](powershell.md)
+- [Windows Active Directory Attacks Cheatsheet](windows_active_directory_attacks_cheatsheet.md)
+- [Windows Active Directory Exploitation Cheatsheet](windows_active_directory_exploitation.md)
+ 
