@@ -11,8 +11,8 @@
 
 ------------------
 
-| Tables        | Are                       | Memory                 | Key-Rings                  |
-| ------------- |:-------------------------:| ----------------------:| --------------------------:|
+| Files         | History                   | Memory                 | Key-Rings                  |
+| ------------- | -------------------------:| ----------------------:| --------------------------:|
 | Configs       | Logs                      |   Cache                | Browser stored credentials |
 | Databases     | Command-line History      |   In-memory Processing |                            |
 | Notes         |                           |                        |                            |
