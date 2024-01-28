@@ -1,7 +1,7 @@
 ## Stuff to look for
 
 | Files         | History                   | Memory                 | Key-Rings                  |
-| ------------- | -------------------------:| ----------------------:| --------------------------:|
+|:-------------:|:-------------------------:|:----------------------:|:--------------------------:|
 | Configs       | Logs                      |   Cache                | Browser stored credentials |
 | Databases     | Command-line History      |   In-memory Processing |                            |
 | Notes         |                           |                        |                            |
@@ -14,7 +14,7 @@
 
 
 | Syntax | Description |
-| ----------- | ----------- |
+|:-----------:|:-----------:|
 | Header | Title |
 | Paragraph | Text |
 
