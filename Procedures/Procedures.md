@@ -2,5 +2,5 @@
 - [Protected_Files](Protected_files.md)
 - [Remote_Desktop](Remote_Desktop.md)
 - [File_Transfer](file_transfer.md)
-- [Mail_Servers](mail_Servers.md)
+- [Mail_Servers](mail_servers.md)
 - [Tunnelling](tunnelling_portforwarding.md)
